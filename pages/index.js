@@ -1,7 +1,6 @@
 import React from 'react'
 import axios from 'axios'
 
-import ProductList from '../components/Index/ProductList';
 import MatchList from '../components/Index/MatchList';
 import baseUrl from '../utils/baseUrl';
 

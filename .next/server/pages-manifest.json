@@ -3,7 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/match": "pages/match.js",
-  "/api/match": "pages/api/match.js",
-  "/api/matches": "pages/api/matches.js"
+  "/create": "pages/create.js"
 }
